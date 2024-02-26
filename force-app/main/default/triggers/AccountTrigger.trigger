@@ -5,7 +5,7 @@ trigger AccountTrigger on Account (before insert,after insert,before update,afte
             //just to check updation how it works making changes in shreerajDev branch
         }
         else if(Trigger.IsAfter){
-            
+            //Trigger by shreerajDev
         }
     }
 }
